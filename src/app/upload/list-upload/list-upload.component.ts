@@ -1,7 +1,7 @@
-import { Component, OnInit } from '@angular/core';
 import { map } from 'rxjs/operators';
 
 import { UploadFileService } from '../upload-file.service';
+import {Component, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-list-upload',

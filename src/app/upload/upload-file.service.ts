@@ -48,7 +48,7 @@ export class UploadFileService {
       .catch(error => console.log(error));
   }
 
-  private deleteFileDatabase(key: string) {
+   deleteFileDatabase(key: string) {
     return this.db.list(this.basePath).remove(key);
   }
 

@@ -8,10 +8,10 @@ export const environment = {
   production: false,
   firebase: {
     apiKey: 'AIzaSyBxqfqYcqplwzOktgtlzKIlQIWS0MsUnyk',
-    authDomain: 'gkz-angular-firebase.firebaseapp.com',
-    databaseURL: 'https://gkz-angular-firebase.firebaseio.com',
-    projectId: 'gkz-angular-firebase',
-    storageBucket: 'gkz-angular-firebase.appspot.com',
+    authDomain: 'airbnb-261ef.firebaseapp.com',
+    databaseURL: 'https://airbnb-261ef.firebaseio.com',
+    projectId: 'airbnb-261ef',
+    storageBucket: 'airbnb-261ef.appspot.com',
     messagingSenderId: '535442015072'
   }
 };
